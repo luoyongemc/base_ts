@@ -1,0 +1,1 @@
+let a: [string, number] = ['a', 4];
